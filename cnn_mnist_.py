@@ -1,4 +1,4 @@
-# Tutorial number 06 modified version, replacing PrettyTensor with TensorFlow primitives.
+# Tutorial number 04 modified version, replacing PrettyTensor with TensorFlow primitives.
 # GitHub link: https://github.com/miga101/tf_mnist_cnn
 #
 # Original author is Magnus Erik Hvass Pedersen.
